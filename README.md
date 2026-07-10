@@ -220,23 +220,23 @@ Arcade reflex game guiding a ball through color-matching obstacles.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=subhadip07160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00D4FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip07160&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D4FF&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=subhadip07160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00D4FF&text_color=c9d1d9&cache_seconds=0" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip07160&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=00D4FF&currStreakLabel=A78BFA&cache_bust=1" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip07160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip07160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9&cache_seconds=0" width="49%"/>
 
 </div>
 
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subhadip07160&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=subhadip07160&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=0" width="100%"/>
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadip07160&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=00D4FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadip07160&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=00D4FF&hide_border=true&cache_seconds=0" width="100%"/>
 </div>
 
 ### 🐍 Contribution Snake
