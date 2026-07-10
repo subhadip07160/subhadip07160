@@ -39,7 +39,7 @@ focus: Gameplay Systems · UI/UX in Unity · Performance Optimization
 languages_spoken: [Bengali, Hindi, English]
 ```
 
-I'm a **Unity Game Developer** based in Tamluk, West Bengal, currently building mobile game features at **Capsitech IT Services Pvt. Ltd.** I work primarily in **C#** and the **Unity Engine**, with a strong focus on clean, maintainable code, gameplay mechanics, and shipping polished, performant experiences. I've contributed to titles live on the **Google Play Store**, and I'm comfortable across the full loop — prototyping mechanics, building UI systems, and optimizing for mobile performance.
+I'm a **Unity Game Developer** based in Tamluk, West Bengal, currently building mobile game features at **Capsitech IT Services Pvt. Ltd.** I work primarily in **C#** and the **Unity Engine**, with a strong focus on clean, maintainable code, gameplay mechanics, and shipping polished, performant experiences. I've contributed to titles live on the **Google Play Store**, and I'm comfortable across the full loop — prototyping mechanics, building UI systems, and optimizing for mobile performance. I also have basic, working knowledge of **Godot Engine**, picked up alongside my Unity work.
 
 **🎯 Open To:** Unity/Game Development roles · Freelance game projects · Collaborations on indie titles
 
@@ -57,6 +57,8 @@ I'm a **Unity Game Developer** based in Tamluk, West Bengal, currently building 
 
 ![Unity](https://skillicons.dev/icons?i=unity&theme=dark) ![Godot](https://skillicons.dev/icons?i=godot&theme=dark)
 
+*Primary: Unity Engine (C#) &nbsp;·&nbsp; Basic: Godot Engine (GDScript)*
+
 **Systems & Infrastructure**
 
 ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
@@ -72,7 +74,7 @@ I'm a **Unity Game Developer** based in Tamluk, West Bengal, currently building 
 | Category | Stack |
 |---|---|
 | **Core Language** | C# |
-| **Engines & Scripting** | Unity Engine, Godot Engine, GDScript |
+| **Engines & Scripting** | Unity Engine, C# *(Primary)* · Godot Engine, GDScript *(Basic)* |
 | **Systems & Design** | SOLID Principles, UI/UX Design, Gameplay Mechanics |
 | **Physics & Animation** | Physics2D, Rigidbody2D, WheelCollider, DOTween, Tilemap |
 | **Networking** | LAN, WAN, Networking Fundamentals |
@@ -187,6 +189,20 @@ Physics-based racing game with realistic car movement across multiple handcrafte
 </details>
 
 <details>
+<summary><b>🟣 LAN Multiplayer (Teacher-Student) — Networking Project</b></summary>
+<br/>
+
+A Unity-based LAN multiplayer project implementing a teacher-student networked interaction model — built to practice local network (LAN) communication and multiplayer architecture fundamentals.
+
+| Detail | Info |
+|---|---|
+| **Stack** | Unity, C#, LAN Networking |
+| **Type** | Multiplayer / Networking Practice Project |
+| **Repo** | [github.com/subhadip07160/LAN-MULTIPLAYER-TEACHER-STUDENT](https://github.com/subhadip07160/LAN-MULTIPLAYER-TEACHER-STUDENT) |
+
+</details>
+
+<details>
 <summary><b>🟣 Color Switch — Casual Arcade</b></summary>
 <br/>
 
@@ -253,11 +269,12 @@ Arcade reflex game guiding a ball through color-matching obstacles.
 
 ```yaml
 learning:
+  - Godot Engine basics (alongside Unity)
   - Advanced Unity architecture patterns
-  - Godot Engine deep-dive
 building:
-  - Mobile gameplay systems & UI tooling
+  - Mobile gameplay systems & UI tooling (Unity)
 exploring:
+  - LAN/WAN networking for multiplayer games
   - Performance profiling for mobile titles
 open_to:
   - Unity developer roles
