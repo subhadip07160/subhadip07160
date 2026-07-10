@@ -34,7 +34,7 @@
 ```yaml
 name: Subhadip Manna
 role: Unity Game Developer
-experience: 9+ months (Full-time, Industry)
+experience: 1yr + months (Full-time, Industry)
 focus: Gameplay Systems · UI/UX in Unity · Performance Optimization
 languages_spoken: [Bengali, Hindi, English]
 ```
