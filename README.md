@@ -34,7 +34,7 @@
 ```yaml
 name: Subhadip Manna
 role: Unity Game Developer
-experience: 1yr + months (Full-time, Industry)
+experience: 9+ months (Full-time, Industry)
 focus: Gameplay Systems · UI/UX in Unity · Performance Optimization
 languages_spoken: [Bengali, Hindi, English]
 ```
@@ -53,9 +53,13 @@ I'm a **Unity Game Developer** based in Tamluk, West Bengal, currently building 
 
 ![C#](https://skillicons.dev/icons?i=cs&theme=dark)
 
-**Game Engines**
+**Game Engines & Scripting**
 
 ![Unity](https://skillicons.dev/icons?i=unity&theme=dark) ![Godot](https://skillicons.dev/icons?i=godot&theme=dark)
+
+**Systems & Infrastructure**
+
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 
 **Tools & Practices**
 
@@ -68,9 +72,11 @@ I'm a **Unity Game Developer** based in Tamluk, West Bengal, currently building 
 | Category | Stack |
 |---|---|
 | **Core Language** | C# |
-| **Engines** | Unity Engine, Godot Engine |
+| **Engines & Scripting** | Unity Engine, Godot Engine, GDScript |
 | **Systems & Design** | SOLID Principles, UI/UX Design, Gameplay Mechanics |
 | **Physics & Animation** | Physics2D, Rigidbody2D, WheelCollider, DOTween, Tilemap |
+| **Networking** | LAN, WAN, Networking Fundamentals |
+| **Operating Systems** | Linux |
 | **Version Control** | Git, GitHub |
 | **Platform** | Google Play (Mobile) |
 
