@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://subhadip-manna.itch.io/)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-msubhadip701%40outlook.com-6E00FF?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:msubhadip701@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-subhadip07160-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/subhadip07160)
@@ -34,7 +34,7 @@
 ```yaml
 name: Subhadip Manna
 role: Unity Game Developer
-experience: 9+ months (Full-time, Industry)
+experience: 1+ year (Full-time, Industry)
 focus: Gameplay Systems · UI/UX in Unity · Performance Optimization
 languages_spoken: [Bengali, Hindi, English]
 ```
