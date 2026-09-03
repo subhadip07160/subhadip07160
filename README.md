@@ -288,9 +288,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Outlook-msubhadip701%40outlook.com-6E00FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:msubhadip701@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-manna-16a418353/)
 [![GitHub](https://img.shields.io/badge/GitHub-subhadip07160-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhadip07160)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=itchdotio&logoColor=white)](https://subhadip-manna.itch.io/)
 
 </div>
 
