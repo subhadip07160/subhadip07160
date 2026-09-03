@@ -314,3 +314,22 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8A2BE2,100:6E00FF&height=120&section=footer" width="100%"/>
 
 </div>
+---
+
+## 🎮 Game Video Showcase
+
+<div align="center">
+
+### 🟣 Tendy Merge — Gameplay
+
+<a href="YOUR_YOUTUBE_VIDEO_LINK">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="80%" alt="Tendy Merge Gameplay"/>
+</a>
+
+<br/>
+
+**▶️ Click the image to watch the gameplay video**
+
+</div>
+
+---
