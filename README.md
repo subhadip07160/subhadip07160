@@ -287,10 +287,21 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Outlook-msubhadip701%40outlook.com-6E00FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:msubhadip701@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-manna-16a418353/)
-[![GitHub](https://img.shields.io/badge/GitHub-subhadip07160-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhadip07160)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=itchdotio&logoColor=white)](https://subhadip-manna.itch.io/)
+<a href="mailto:msubhadip701@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-msubhadip701%40outlook.com-6E00FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/subhadip-manna-16a418353/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/subhadip07160">
+  <img src="https://img.shields.io/badge/GitHub-subhadip07160-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://subhadip-manna.itch.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=for-the-badge&logo=itch.io&logoColor=white" />
+</a>
 
 </div>
 
