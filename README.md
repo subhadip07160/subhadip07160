@@ -15,7 +15,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4FF?style=flat-square&logo=itchdotio&logoColor=white)](https://subhadip-manna.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadip-manna-16a418353/)
 [![Email](https://img.shields.io/badge/Email-msubhadip701%40outlook.com-6E00FF?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:msubhadip701@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-subhadip07160-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/subhadip07160)
 
